@@ -2,9 +2,8 @@ package filetype
 
 import (
 	"errors"
-
-	"github.com/h2non/filetype/matchers"
-	"github.com/h2non/filetype/types"
+  "github.com/MotionTailor/filetype/matchers"
+  "github.com/MotionTailor/filetype/types"
 )
 
 // Types stores a map of supported types

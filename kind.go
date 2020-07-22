@@ -1,8 +1,8 @@
 package filetype
 
 import (
-	"github.com/h2non/filetype/matchers"
-	"github.com/h2non/filetype/types"
+	"github.com/MotionTailor/filetype/matchers"
+	"github.com/MotionTailor/filetype/types"
 )
 
 // Image tries to match a file as image type
